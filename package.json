@@ -1,0 +1,20 @@
+{
+  "name": "computer-theme",
+  "displayName": "Computer",
+  "description": "Theme of the a simple computer",
+  "version": "0.0.1",
+  "author": { "name": "the_hirin", "email": "dmvalentin287@gmail.com", "url": "" },
+  "contributors": [
+    { "name": "Server of Toronja GB", "url": "https://discord.gg/zBhPmquzHs" }
+  ],
+  "publisher": "aseprite",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "computer-theme", "path": "." }
+    ]
+  }
+}
