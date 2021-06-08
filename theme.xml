@@ -1,4 +1,4 @@
-<?xml version="0.0.3" encoding="utf-8" ?>
+<?xml version="0.0.4" encoding="utf-8" ?>
 <theme name="Default" screenscaling="2" uiscaling="1">
     <authors>
         <author name="the_hirin" url="" />
@@ -83,7 +83,7 @@
         <color id="filelist_selected_row_text" value="#ffffff" />
         <color id="filelist_selected_row_face" value="#ff5555" />
         <color id="filelist_disabled_row_text" value="#ffc8c8" />
-        <color id="workspace" value="#7d929e" />
+        <color id="workspace" value="#a6859f" />
         <color id="workspace_text" value="#655561" />
         <color id="workspace_link" value="#655561" />
         <color id="workspace_link_hover" value="#ffff7d" />
