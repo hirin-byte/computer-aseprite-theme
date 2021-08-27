@@ -1,4 +1,4 @@
-<?xml version="0.0.4" encoding="utf-8" ?>
+<?xml version="0.0.5" encoding="utf-8" ?>
 <theme name="Default" screenscaling="2" uiscaling="1">
     <authors>
         <author name="the_hirin" url="" />
@@ -31,8 +31,8 @@
     </dimensions>
     <colors>
         <color id="text" value="#000000" />
-        <color id="disabled" value="#968275" />
-        <color id="face" value="#d3cbbe" />
+        <color id="disabled" value="#7b5480" />
+        <color id="face" value="#a6859f" />
         <color id="hot_face" value="#faf0e6" />
         <color id="selected" value="#ff5555" />
         <color id="selected_text" value="#ffffff" />
@@ -47,19 +47,19 @@
         <color id="button_normal_text" value="#000000" />
         <color id="button_hot_text" value="#000000" />
         <color id="button_selected_text" value="#ffffff" />
-        <color id="check_hot_face" value="#ffebb6" />
+        <color id="check_hot_face" value="#fbd1d6" />
         <color id="check_focus_face" value="#c6c6c6" />
-        <color id="radio_hot_face" value="#ffebb6" />
+        <color id="radio_hot_face" value="#fbd1d6" />
         <color id="radio_focus_face" value="#c6c6c6" />
         <color id="menuitem_normal_text" value="#000000" />
-        <color id="menuitem_normal_face" value="#d3cbbe" />
+        <color id="menuitem_normal_face" value="#a6859f" />
         <color id="menuitem_hot_text" value="#000000" />
-        <color id="menuitem_hot_face" value="#ffebb6" />
+        <color id="menuitem_hot_face" value="#fbd1d6" />
         <color id="menuitem_highlight_text" value="#ffffff" />
-        <color id="menuitem_highlight_face" value="#7c909f" />
-        <color id="window_face" value="#d3cbbe" />
+        <color id="menuitem_highlight_face" value="#a6859f" />
+        <color id="window_face" value="#a6859f" />
         <color id="window_titlebar_text" value="#ffffff" />
-        <color id="window_titlebar_face" value="#7c909f" />
+        <color id="window_titlebar_face" value="#a6859f" />
         <color id="editor_face" value="#655561" />
         <color id="editor_sprite_border" value="#000000" />
         <color id="editor_sprite_bottom_border" value="#41412c" />
@@ -72,7 +72,7 @@
         <color id="slider_full_text" value="#ffffff" />
         <color id="tab_normal_text" value="#000000" />
         <color id="tab_active_text" value="#ffffff" />
-        <color id="tab_active_face" value="#7d929e" />
+        <color id="tab_active_face" value="#a6859f" />
         <color id="popup_window_border" value="#000000" />
         <color id="tooltip_text" value="#000000" />
         <color id="tooltip_face" value="#ffff7d" />
@@ -91,21 +91,21 @@
         <color id="timeline_normal_text" value="#000000" />
         <color id="timeline_hover" value="#d9d9d9" />
         <color id="timeline_hover_text" value="#000000" />
-        <color id="timeline_active" value="#7d929e" />
+        <color id="timeline_active" value="#a6859f" />
         <color id="timeline_active_text" value="#ffffff" />
         <color id="timeline_active_hover" value="#99b3c2" />
         <color id="timeline_active_hover_text" value="#ffffff" />
         <color id="timeline_clicked" value="#536069" />
         <color id="timeline_clicked_text" value="#ffffff" />
         <color id="timeline_focused_text" value="#ffffff" />
-        <color id="timeline_padding" value="#7d929e" />
+        <color id="timeline_padding" value="#a6859f" />
         <color id="timeline_band_highlight" value="#93adbb" />
         <color id="timeline_band_bg" value="#76858e" />
         <color id="status_bar_text" value="#2e3234" />
-        <color id="status_bar_face" value="#7d929e" />
-        <color id="flag_normal" value="#d3cbbe" />
+        <color id="status_bar_face" value="#a6859f" />
+        <color id="flag_normal" value="#a6859f" />
         <color id="flag_active" value="#ff0000" />
-        <color id="flag_clicked" value="#7d929e" />
+        <color id="flag_clicked" value="#a6859f" />
         <color id="select_box_ruler" value="#0000ff" />
         <color id="select_box_grid" value="#64c864" />
         <color id="edit_pal_face" value="#655561" />
